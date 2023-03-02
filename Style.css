@@ -7,16 +7,10 @@ body{
     list-style: none;
     display: flex;
 }
-
-.products{
-    border-radius: 30px;
-    padding: 5px, 10px;
-    size: 18px;
-    margin-bottom: -150%;
-}
 #heading{
     text-align: center;
     margin-top: -50%;
+    color: rgb(235, 230, 230);
 }
 .navbar{
     display: flex;
@@ -119,9 +113,24 @@ height: 40%;
     display: flex;
     gap: 10%;
     size: 40;
-
 }
 .box{
-    font size: 30px;
+    font-size: 20px;
     padding: 50px;
+    margin-top: 40px;
 }
+button{
+    border-radius: 30px;
+    padding: 5px, 10px;
+    size: 18px;
+    padding: 10px;
+    color: #222224;
+    font-size: medium;
+    align-items: center;
+}
+.btn3{
+     background-color: white;
+    border: none; 
+    cursor: pointer;
+}
+
