@@ -1,0 +1,127 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+.ul{
+    list-style: none;
+    display: flex;
+}
+
+.products{
+    border-radius: 30px;
+    padding: 5px, 10px;
+    size: 18px;
+    margin-bottom: -150%;
+}
+#heading{
+    text-align: center;
+    margin-top: -50%;
+}
+.navbar{
+    display: flex;
+    display: inline-block; 
+}
+.box2{
+    display: flex;
+    text-align: right;
+    margin-top: 20%;
+
+} 
+.ann{
+    width: 50%;
+    float:bottom, right;
+    margin-bottom: 90%;
+    padding-left: 50%;
+    margin-top: -15%;
+    
+}
+ul,li{
+    list-style: none;
+    display: flex;
+    gap: 6em;
+    text-align: center;
+    float: right;
+}
+.fun{
+    display: flex;
+    margin-top: -86%;
+}
+.ma{
+    width: 20%;
+    height: 10%;
+}
+.me{
+    width: 20%;
+    height: 10%;
+}
+.mi{
+    width: 20%;
+    height: 10%;
+}
+.mo{
+    width: 20%;
+    height: 10%;
+}
+.funn{
+    display: flex;
+}
+.maa{
+width: 65%;
+height: 40%;
+}
+.mee{
+    width: 20%;
+    height: 20%;
+}
+.names{
+    display: flex;
+    gap: 18%;
+}
+.furniture{
+    display: flex;
+    gap: 60px;
+}
+.mag{
+    margin-left: 4%;
+    text-align: center;
+}
+.dis{
+    display: flex;
+}
+.moo{
+    height: 740px;
+}
+.muu{
+    height: 335px;
+}
+.magazine{
+    width: 50%;
+    height: 60%;
+    margin-left:12% ;
+}
+.ending{
+    background-color: black;
+    color: wheat;
+}
+.endpage{
+    display: flex;
+    gap: 10%;
+    color: aliceblue;
+    background-size: 30%;
+}
+.front{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.lin{
+    display: flex;
+    gap: 10%;
+    size: 40;
+
+}
+.box{
+    font size: 30px;
+    padding: 50px;
+}
